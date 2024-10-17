@@ -1,0 +1,78 @@
+*{
+    padding: 0;
+    margin:0;
+    color: white;
+}
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+    position: fixed;
+    top: 0;
+    
+}
+button{
+    background-color: #f08804;
+}
+#logo{
+    color: #f08804;
+    font-size:20px;
+}
+a{
+    margin-right:185px;
+    text-decoration: none;
+}
+
+.bodybox{
+    display: flexbox;
+    background-color: aqua;
+    height: 800px;
+    width: 80vw;
+    margin: 100px;
+}
+.innerdiv{
+    display: inline-block;
+    height: 500px;
+    width:300px;
+    background-color: rgb(160, 94, 223);
+    margin: 40px 90px 40px 0px;
+
+}
+.box1{
+    margin-left: 40px;
+}
+.box2{
+    border-radius: 10px;
+    background-color: #f08804;
+    text-align: center;
+    width: 90vw;
+    height: 90px;
+    margin: 50px;
+
+}
+.orangebox {
+    height: 32px;
+    width: 32px;
+    background: rgb(228, 237, 231);
+    position: fixed;
+    bottom: 12px;
+    right: 23px;
+    border-radius: 60px;
+    text-align: center;
+    color: red;
+}
+main {
+    background-color: black;
+    color: white;
+    padding: 34px;
+}
+footer {
+    height: 100px;
+    background-color: bisque;
+}.text-box {
+    padding: 34px;
+    border: 2px solid white;
+    margin: 50px 34vw;
+    font-size: 2em;
+    border-radius: 13px;
+
+}

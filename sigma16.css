@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    box-shadow: 5px 5px 15px red;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    background-color: blueviolet;
+    padding: 5px;
+    border: 5px solid black;
+}
